@@ -80,7 +80,7 @@ namespace CSharp.Mod_10___Arrays
                     Console.Write(alphabets[i, j]);
                 }
             }Console.WriteLine();
-            // i know this is outdated shit cos u taught me only this
+            
         }
 
         public static void JaggedArray()
@@ -98,7 +98,7 @@ namespace CSharp.Mod_10___Arrays
                     Console.WriteLine(mark);
                 }
             }
-        }// for loop i dont know
+        }
 
     }
 }

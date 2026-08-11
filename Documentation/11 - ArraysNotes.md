@@ -850,25 +850,6 @@ In the next section, we'll learn not just the syntax, but **why both exist**, wh
 
 ---
 
-# End of Part 1
-
-Next:
-
-📘 Part 2
-
-- `for` vs `foreach`
-- Array Algorithms (Highest, Lowest, Sum, Average...)
-- Search
-- Reverse
-- Copy
-- The thinking process behind each algorithm
-
-# 📘 Module 10 – Arrays (Modern C# 2026)
-
-# Part 2 — Traversing Arrays & Array Algorithms
-
----
-
 # Chapter 7 — Why Do We Need Loops?
 
 Suppose you have this array.
@@ -1839,28 +1820,6 @@ Ask yourself:
 Once you know the human steps, translating them into C# becomes much easier.
 
 This is exactly how experienced programmers approach new problems.
-
----
-
-# End of Part 2
-
-Next:
-
-📘 Part 3
-
-- Multi-dimensional Arrays
-- Jagged Arrays
-- Array Methods
-- ToCharArray()
-- Arrays vs Collections
-- Arrays in Selenium Automation
-- Best Practices
-- Interview Questions
-- Progressive Assignments
-
-# 📘 Module 10 – Arrays (Modern C# 2026)
-
-# Part 3 — Advanced Arrays, Array Methods & Interview Preparation
 
 ---
 

@@ -1,6 +1,7 @@
 ﻿using CSharp.Assignments;
 using CSharp.DataTypes;
 using CSharp.Mod_10___Arrays;
+using CSharp.Mod_11___ExceptionsHandling;
 using CSharp.Mod_7___DecisionMaking;
 using CSharp.Mod_8___Loops;
 using CSharp.Mod_9___Methods;
@@ -119,13 +120,34 @@ namespace CSharp.MainMethod
             MethodsPractice.Display(485.2456);
             MethodsPractice.Display("Loki");
             MethodsPractice.DisplayStudentDetails(name: "Lokesh", age: 25, city: "Vijayawada");
-            MethodsPractice.GetCountry();*/
+            MethodsPractice.GetCountry();
 
             ArraysPractice.SingleDimensionArray();
             ArraysPractice.ArrayUpdate();
             ArraysPractice.MultiDimensionalArray();
             ArraysPractice.JaggedArray();
             ArraysPractice.MarksAnalysis();
+
+            Assignment_03.PrintAllNumbers();
+            Assignment_03.UpdateAnElement();
+            Assignment_03.PrintFirstAndLastElement();
+            Assignment_03.PrintHighestLowestSumAverage();
+            Assignment_03.CountEvenAndOddNumbers();
+            Assignment_03.SearchAnElemenet();
+            Assignment_03.ReverseAnArray();
+            Assignment_03.CopyAnArray();
+            Assignment_03.SortAscendingAndDescending();
+            Assignment_03.CountVowelsAndConsonantsInAName();
+            Assignment_03.ReverseStringManually();
+
+            ExceptionsPractice.BasicTryCatch();
+            ExceptionsPractice.TryCatchWithDivision();
+            ExceptionsPractice.TryCatchWithExceptionObject();
+            ExceptionsPractice.TryCatchWithFinally();
+            ExceptionsPractice.TryCatchWithThrow();
+            ExceptionsPractice.TryCatchWithMultipleExceptions();*/
+            ExceptionsPractice.ArrayException();
+            ExceptionsPractice.MiniProject();
         }
     }
 }

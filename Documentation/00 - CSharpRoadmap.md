@@ -241,6 +241,29 @@ int number = (int)value;
 - Exception object
 - Custom Exceptions *(Later)*
 
+After Exception Handling, before File Handling, we'll have a small module:
+
+# 📘 Module 11.5 – Character Manipulation (char)
+
+## Topics:
+
+What is char?
+Unicode
+ASCII
+char.ToUpper()
+char.ToLower()
+char.IsDigit()
+char.IsLetter()
+char.IsWhiteSpace()
+char.IsUpper()
+char.IsLower()
+char.IsPunctuation()
+char.IsSymbol()
+Real interview questions
+Real automation examples (validating usernames, passwords, OTPs)
+
+It's a small module (1–2 hours), but incredibly useful.
+
 ---
 
 # 📘 Module 12 – Object-Oriented Programming (OOP)
